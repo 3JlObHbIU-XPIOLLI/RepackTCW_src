@@ -75,8 +75,6 @@ This will pull the iortcw trunk source.
 
 'cd' into the iortcw folder that was created...
 
-cd iortcw/MP (Multi-Player)
-or
 cd iortcw/SP (Single-Player)
 
 ARCH=x86 make (to build 32bit binaries)
