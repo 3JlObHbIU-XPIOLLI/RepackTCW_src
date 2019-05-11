@@ -61,15 +61,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,         // crouching speed
 			90,         // Field of View
 			200,        // Yaw Speed	// RF change
-			0.0,        // leader
-			0.5,        // aim skill
-			0.5,        // aim accuracy
-			0.75,       // attack skill
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
 			0.5,        // reaction time
 			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.5,        // aggression
-			0.8,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			30,        // starting health RealRTCW lowered
@@ -109,15 +109,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,         // crouching speed
 			90,         // Field of View
 			200,        // Yaw Speed	// RF change
-			0.0,        // leader
-			0.70,       // aim skill
-			0.70,       // aim accuracy
-			0.75,       // attack skill
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
 			0.5,        // reaction time
-			0.3,        // attack crouch
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.5,        // aggression
-			0.8,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			50,        // starting health RealRTCW lowered
@@ -157,15 +157,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,         // crouching speed
 			180,         // Field of View  RealRTCW upped from 90
 			350,        // Yaw Speed
-			0.0,        // leader
-			0.70,       // aim skill
-			0.70,       // aim accuracy
-			0.75,       // attack skill
-			0.1,        // reaction time
-			0.0,        // attack crouch
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
 			1.0,        // aggression
-			0.0,        // tactical
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			180,        // starting health
@@ -206,15 +206,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			130,         // crouching speed
 			180,         // Field of View
 			350,        // Yaw Speed
-			0.0,        // leader
-			0.70,       // aim skill
-			0.70,       // aim accuracy
-			0.75,       // attack skill
-			0.1,        // reaction time
-			0.0,        // attack crouch
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
 			1.0,        // aggression
-			0.0,        // tactical
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			180,        // starting health
@@ -258,15 +258,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,         // crouching speed
 			90,         // Field of View
 			200,        // Yaw Speed
-			0.0,        // leader
-			0.70,       // aim skill
-			0.70,       // aim accuracy
-			0.75,       // attack skill
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
 			0.5,        // reaction time
-			0.05,       // attack crouch
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.9,        // aggression
-			0.2,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			240,        // starting health
@@ -306,15 +306,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			220,        // crouching speed
 			90,         // Field of View
 			200,        // Yaw Speed
-			0.0,        // leader
-			0.70,       // aim skill
-			0.70,       // aim accuracy
-			0.75,       // attack skill
-			0.8,        // reaction time
-			0.05,       // attack crouch
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
 			1.0,        // aggression
-			0.1,        // tactical
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			500,        // starting health
@@ -355,14 +355,14 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			100,        // crouching speed
 			90,         // Field of View
 			200,        // Yaw Speed	// RF change
-			0.0,        // leader
-			0.5,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.3,        // reaction time
+			1.0,       // attack skill
+			0.1,        // reaction time
 			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.5,        // aggression
+			1.0,        // aggression
 			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
@@ -403,15 +403,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			90,         // crouching speed
 			90,         // Field of View
 			150,        // Yaw Speed
-			0.0,        // leader
-			0.7,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.6,        // reaction time
-			0.05,       // attack crouch
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.9,        // aggression
-			0.1,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			300,        // starting health
@@ -451,15 +451,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			90,         // crouching speed
 			90,         // Field of View
 			150,        // Yaw Speed
-			0.0,        // leader
-			0.7,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.6,        // reaction time
-			0.05,       // attack crouch
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.9,        // aggression
-			0.1,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			300,        // starting health
@@ -499,15 +499,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			90,         // crouching speed
 			90,         // Field of View
 			150,        // Yaw Speed
-			0.0,        // leader
-			0.7,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.6,        // reaction time
-			0.05,       // attack crouch
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.9,        // aggression
-			0.1,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			300,        // starting health
@@ -547,15 +547,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			90,         // crouching speed
 			90,         // Field of View
 			150,        // Yaw Speed
-			0.0,        // leader
-			0.7,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.6,        // reaction time
-			0.05,       // attack crouch
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
 			1.0,        // aggression
-			0.0,        // tactical
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			300,        // starting health
@@ -595,14 +595,14 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			100,        // crouching speed
 			90,         // Field of View
 			300,        // Yaw Speed
-			0.0,        // leader
-			0.5,        // aim skill
-			0.8,        // aim accuracy
-			0.9,        // attack skill
-			0.3,        // reaction time
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
+			0.5,        // reaction time
 			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.5,        // aggression
+			1.0,        // aggression
 			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
@@ -644,15 +644,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			90,         // crouching speed
 			90,         // Field of View
 			230,        // Yaw Speed
-			0.0,        // leader
-			0.7,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.2,        // reaction time
-			0.05,       // attack crouch
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.9,        // aggression
-			0.1,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			300,        // starting health
@@ -692,15 +692,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			90,         // crouching speed
 			90,         // Field of View
 			150,        // Yaw Speed
-			0.0,        // leader
-			0.7,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.6,        // reaction time
-			0.05,       // attack crouch
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.9,        // aggression
-			0.1,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			200,        // starting health
@@ -740,15 +740,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,         // crouching speed
 			90,         // Field of View
 			200,        // Yaw Speed
-			0.0,        // leader
-			0.5,        // aim skill
-			0.5,        // aim accuracy
-			0.75,       // attack skill
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
 			0.5,        // reaction time
-			0.0,        // attack crouch
+			0.4,        // attack crouch
 			0.0,        // idle crouch
 			1.0,        // aggression
-			0.0,        // tactical
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			100,        // starting health
@@ -788,15 +788,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			170,        // crouching speed
 			180,        // Field of View // RealRTCW was 90
 			130,        // Yaw Speed
-			0.0,        // leader
-			0.7,        // aim skill
+			1.0,        // leader
+			1.0,        // aim skill
 			1.0,        // aim accuracy
-			0.9,        // attack skill
-			0.2,        // reaction time
-			0.05,       // attack crouch
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
 			0.0,        // idle crouch
 			1.0,        // aggression
-			0.0,        // tactical
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			2000,       // starting health
@@ -836,15 +836,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,         // crouching speed
 			90,         // Field of View
 			300,        // Yaw Speed
-			0.0,        // leader
-			0.70,       // aim skill
-			0.70,       // aim accuracy
-			0.75,       // attack skill
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
 			0.5,        // reaction time
-			0.3,        // attack crouch
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.5,        // aggression
-			0.8,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			100,        // starting health
@@ -884,16 +884,16 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,			// crouching speed
 			90,			// Field of View
 			300,		// Yaw Speed
-			0.0,		// leader
-			0.70,		// aim skill
-			0.70,		// aim accuracy
-			0.75,		// attack skill
-			0.5,		// reaction time
-			0.3,		// attack crouch
-			0.0,		// idle crouch
-			0.5,		// aggression
-			0.8,		// tactical
-			0.0,		// camper
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
+			0.5,        // reaction time
+			0.4,        // attack crouch
+			0.0,        // idle crouch
+			1.0,        // aggression
+			1.0,        // tactical
+			0.0,        // camper
 			16000,		// alertness
 			100,		// starting health
 			1.0,		// hearing scale
@@ -932,15 +932,15 @@ AICharacterDefaults_t aiDefaults[NUM_CHARACTERS] = {
 			80,         // crouching speed
 			90,         // Field of View
 			300,        // Yaw Speed
-			0.0,        // leader
-			0.70,       // aim skill
-			0.70,       // aim accuracy
-			0.75,       // attack skill
+			1.0,        // leader
+			1.0,        // aim skill
+			1.0,        // aim accuracy
+			1.0,       // attack skill
 			0.5,        // reaction time
-			0.3,        // attack crouch
+			0.4,        // attack crouch
 			0.0,        // idle crouch
-			0.5,        // aggression
-			0.8,        // tactical
+			1.0,        // aggression
+			1.0,        // tactical
 			0.0,        // camper
 			16000,      // alertness
 			100,        // starting health
